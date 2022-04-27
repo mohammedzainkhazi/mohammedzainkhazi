@@ -1,7 +1,7 @@
-- ![GitHub Views](https://komarev.com/ghpvc/?username=mohammedzainkhazi&color=FAC151)
--  👋 Hi, I’m @mohammedzainkhazi
+- !👋 Hi, I’m @mohammedzainkhazi
 - 👀 I’m interested in ... Coding,TechIdeas,Automation,AI,ML,UI/UX,Gaming
-- 🌱 I’m currently learning ...Deep Learning and Computer Vision
+- 🌱 I’m currently learning ...Latest Js Frameworks
 - In love with Python3  
 - 📫 Explore me by mohammedzainkhazi@protonmail.com
 - PortFolio : https://mohammedzainkhazi.web.app 
+- LinkedIn  : https://www.linkedin.com/in/mohammedzainkhazi/
