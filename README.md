@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning ...Latest Js Frameworks
 - In love with Python3  
 - 📫 Explore me by mohammedzainkhazi@protonmail.com
-- PortFolio : http://localhost:3000 
+- PortFolio : http://localhost:3000?s=g
 - LinkedIn  : https://www.linkedin.com/in/mohammedzainkhazi/
